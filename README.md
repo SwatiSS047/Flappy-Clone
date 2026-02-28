@@ -1,1 +1,2 @@
 # Flappy-Clone
+Developed a browser-based “Flappy Cone” game using HTML, CSS, and JavaScript, inspired by simple arcade-style gameplay. Implemented game mechanics such as gravity, obstacle movement, collision detection, and score tracking using JavaScript and DOM manipulation. Designed a responsive and interactive UI with smooth animations and real-time user controls, ensuring an engaging user experience across different devices.
